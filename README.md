@@ -33,7 +33,7 @@ To run the voice translator application, the following dependencies are required
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/voice-translator.git
+git clone https://github.com/jahnavirishikesh/Real-Time-Voice-Translator-in-Python.git
 ```
 
 2. You can install the required Python libraries, including Playsound, using pip:
@@ -53,13 +53,13 @@ pip install SpeechRecognition googletrans pyttsx3 playsound
 2. Navigate to the project directory:
 
 ```shell
-cd voice-translator
+cd Real-Time-Voice-Translator-in-Python
 ```
 
 3. Run the application:
 
 ```shell
-python translator.py
+python Translator.py
 ```
 
 4. Follow the instructions provided by the application. Speak your input when prompted, and specify the destination language using voice input.
