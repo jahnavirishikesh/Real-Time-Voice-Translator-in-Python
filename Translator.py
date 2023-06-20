@@ -53,7 +53,7 @@ while (query == "None"):
     query = takecommand()
 
 from_lang = detect(query)
-print ("The user's sentence is in ", getLangName(from_lang))
+print ("The user's sentence is in ", getLangName(from_lang)) 
 
 def destination_language():
     print("Enter the language in which you	want to convert : Ex. Hindi , English , Spanish, etc.")
