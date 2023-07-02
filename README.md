@@ -14,8 +14,6 @@ This repository contains a voice translator application built in Python. The app
 
 5. Text-to-Speech and Console Display: Once the translation is complete, the application reads out the translated text using text-to-speech functionality. Additionally, the translated text is printed in the console for easy reference.
 
-Sure! Here's the updated "Requirements" section with the addition of the Playsound library:
-
 ## Requirements
 
 To run the voice translator application, the following dependencies are required:
